@@ -1,7 +1,25 @@
-# React Static List of TODOs
+# Static List of TODOs
 
-Splitted the given `App` markup into component
+### Description
 
-- ## Demo Links
+- Added a Static List of TODOs
+  
+### Stack
 
-- [DEMO LINK](https://AndriiZakharenko.github.io/react_static-list-of-todos-js/)
+- HTML (BEM)
+- CSS (Bulma)
+- JS
+- React
+- ReactDOM
+
+### Tools
+
+- ESlint
+- Prettier
+- Cypress
+- Mochawesome
+- Babel
+
+### Demo links
+
+- [Demo](https://AndriiZakharenko.github.io/static-list-of-todos/)
